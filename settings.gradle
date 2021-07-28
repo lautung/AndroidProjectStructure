@@ -1,0 +1,1 @@
+include ':mvpdemo', ':mvpdemo01', ':mvpdemo02', ':mvpdagger2demo', ':mvpdagger2demo01'
